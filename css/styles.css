@@ -1,0 +1,13 @@
+
+#link-logo {
+    display: flex;
+    justify-content:left;
+    align-items:center;
+    width: 50%; 
+    text-align: center;
+}
+
+#icon {
+    max-width: 90px; 
+    height: auto;
+}
